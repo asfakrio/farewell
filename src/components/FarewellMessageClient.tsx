@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useEffect, useState, useRef } from 'react';
@@ -94,7 +95,7 @@ Good luck for everything that’s coming your way. Stay happy, stay true, and al
               className="text-xl md:text-2xl font-semibold mt-10 animate-fadeInUp text-accent"
               style={{ animationDelay: `${0.5 + paragraphs.length * 0.4}s` }}
             >
-              From Your Friend ❤️
+              From Your Friend, Raihan ❤️
             </p>
           </div>
         </>
