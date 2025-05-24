@@ -61,7 +61,7 @@ Now, as we step into a new phase of life, I sincerely wish you all the happiness
 
 Never forget how far you’ve come, and never stop believing in yourself. No matter where life takes us, you’ll always be a friend I’m proud to have.
 
-Good luck for everything that’s coming your way. Stay happy, stay true, and always keep that smile alive!`;
+Good luck for everything that’s coming your way. Stay happy, stay true, and always keep that smile alive! 🎓✨`;
 
   const paragraphs = farewellText.split('\n\n');
 
